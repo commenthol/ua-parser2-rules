@@ -1,0 +1,9 @@
+node_modules
+/tmp
+/*.tgz
+/*.bak
+/npm-debug.log
+models-new.yaml
+models.csv
+test_resources/bad-tests.json
+test_resources/new-tests.json

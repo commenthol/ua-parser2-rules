@@ -1,0 +1,72 @@
+{
+  "name": "ua-parser2-rules",
+  "description": "An improved user agent parser.",
+  "version": "1.0.0-3",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "maintainers": [
+    {
+      "name": "commenthol",
+      "email": "commenthol@gmail.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tobie Langel",
+      "email": "tobie.langel@gmail.com",
+      "url": "http://tobielangel.com"
+    },
+    {
+      "name": "Lindsey Simon",
+      "email": "lsimon@commoner.com",
+      "url": "http://www.idreamofuni.com"
+    },
+    {
+      "name": "Philip Tellis",
+      "email": "philip@bluesmoon.info",
+      "url": "http://bluesmoon.info"
+    },
+    {
+      "name": "Dave Olsen",
+      "email": "dmolsen@gmail.com",
+      "url": "http://dmolsen.com"
+    },
+    {
+      "name": "commenthol",
+      "email": "commenthol@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/commenthol/ua-parser2.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/commenthol/ua-parser2/master/js/LICENSE"
+    },
+    {
+      "type": "Apache-2.0",
+      "url": "https://raw.github.com/commenthol/ua-parser2/master/js/LICENSE"
+    }
+  ],
+  "keywords": [
+    "User-Agent",
+    "Parser",
+    "ua-parser"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "js-yaml": "~3.3.1",
+    "ua-parser2": ">=1.0.0",
+    "streamss": "~0.2.4",
+    "mocha": "~2.2.5"
+  },
+  "scripts": {
+    "test": "npm run jsonize && mocha",
+    "jsonize": "node bin/jsonize.js",
+    "prepublish": "npm run jsonize"
+  }
+}
