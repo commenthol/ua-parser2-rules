@@ -417,6 +417,9 @@ device_models:
       name: Acer Iconia One 7 B1-760
       size: 7
       type: tablet
+    B1-760HD:
+      name: Acer Iconia One 7 B1-760 HD
+      type: tablet
     B1-770:
       name: Acer Iconia B1-770
       size: 7
@@ -772,6 +775,9 @@ device_models:
       display: 720x1280
       name: Acer Liquid Z500
       size: 5
+      type: smartphone
+    Z520:
+      name: Acer Liquid Z520
       type: smartphone
   Acho:
     C908:
@@ -1665,6 +1671,8 @@ device_models:
       type: smartphone
     6043D:
       model: 6043A
+    6045B:
+      model: 6045I
     6045I:
       name: Alcatel One Touch Idol 3 (5.5)
       type: smartphone
@@ -1721,6 +1729,9 @@ device_models:
       display: 540x960
       name: Alcatel One Touch POP S7
       size: 5
+      type: smartphone
+    7046T:
+      name: Alcatel One Touch Conquest
       type: smartphone
     7050Y:
       date: 2014-02
@@ -1895,6 +1906,9 @@ device_models:
     ONE TOCH 992D:
       name: Alcatel One Touch 992
       size: 4
+      type: smartphone
+    One Touch:
+      name: One Touch
       type: smartphone
     One Touch 303:
       type: phone
@@ -2343,6 +2357,9 @@ device_models:
       model: BASE Varia
     One Touch 918N:
       model: BASE Varia
+    One Touch 919:
+      name: Alcatel One Touch 919
+      type: smartphone
     One Touch 922:
       name: Alcatel One Touch 922
       type: smartphone
@@ -2613,6 +2630,8 @@ device_models:
       name: Vodafone Smart II
       size: 3.2
       type: smartphone
+    Smart ll:
+      model: Smart II
     Telenor One Touch S:
       size: 4.3
       type: smartphone
@@ -3355,6 +3374,9 @@ device_models:
       type: tablet
     101 DB:
       name: Archos Droid Book
+      type: tablet
+    101 Helium:
+      name: Archos 101 Helium
       type: tablet
     101 Neon:
       name: Archos 101 Neon
@@ -5068,6 +5090,10 @@ device_models:
       _brand: Bmorn
       name: Bmorn Phone One
       type: phablet
+    KSP8000:
+      model: JC-KSP8000
+    M9300:
+      model: JC-KSP8000
   BenWee:
     BenWee 5100:
       name: BenWee 5100
@@ -5692,6 +5718,9 @@ device_models:
       name: Bmobile AX540
       size: 4
       type: smartphone
+    AX570:
+      name: Bmobile AX570
+      type: smartphone
     AX600:
       name: Bmobile AX600
       type: smartphone
@@ -5706,6 +5735,9 @@ device_models:
       type: smartphone
     AX660:
       name: Bmobile AX660
+      type: smartphone
+    AX670:
+      name: Bmobile AX670
       type: smartphone
     AX690:
       name: Bmobile AX690
@@ -6815,6 +6847,9 @@ device_models:
     Cloudfone Excite 350g:
       name: Cloudfone Excite 350g
       type: smartphone
+    Cloudfone Excite 354g:
+      name: Cloudfone Excite 354g
+      type: smartphone
     Cloudfone Excite 400dx:
       display: 480x800
       name: Cloudfone Excite 400dx
@@ -6858,6 +6893,9 @@ device_models:
       name: Cloudfone Ice 350e
       size: 3.5
       type: smartphone
+    Cloudfone ICE 500e:
+      name: Cloudfone Ice 500e
+      type: smartphone
     Cloudfone Thrill 430d:
       name: Cloudfone Thrill 430d
       type: smartphone
@@ -6880,6 +6918,9 @@ device_models:
       type: tablet
     Cloudpad 705w:
       name: Cloudfone CloudPad 705w
+      type: smartphone
+    CloudPad 707qw:
+      name: Cloudfone CloudPad 707qw
       type: smartphone
     Cloudpad 800d:
       name: Cloudfone CloudPad 800d
@@ -6944,6 +6985,8 @@ device_models:
     TouchPad 10.1DC:
       name: CnM TouchPad 10.1 DC
       type: tablet
+    TOUCHPAD 7:
+      model: TouchPad 7
     TouchPad 7:
       name: CnM TouchPad 7
       size: 7
@@ -7828,6 +7871,12 @@ device_models:
       type: smartphone
     N950:
       name: Coolpad N950
+      type: smartphone
+    S6-NT:
+      name: Coolpad S6-NT
+      type: smartphone
+    T2-C01:
+      name: Coolpad T2
       type: smartphone
     V1-C:
       name: Coolpad Bodun
@@ -8870,6 +8919,8 @@ device_models:
     iDxD7 3G:
       name: Digma iDxD7
       type: tablet
+    IDXD8:
+      model: iDxD8 3G
     iDxD8 3G:
       name: Digma iDxD8
       type: tablet
@@ -8973,6 +9024,9 @@ device_models:
     DNS AirTab M974w:
       name: DNS AirTab M974W
       type: tablet
+    DNS AirTab MF1011:
+      name: DNS AirTab MF1011
+      type: tablet
     DNS AirTab P101w:
       name: DNS AirTab P101W
       type: tablet
@@ -8990,11 +9044,17 @@ device_models:
     DNS s4003:
       name: DNS S4003
       type: smartphone
+    DNS S4006:
+      name: DNS S4006
+      type: smartphone
     DNS S4502:
       name: DNS S4502
       type: smartphone
     DNS S4502M:
       name: DNS S4502M
+      type: smartphone
+    DNS S4507:
+      name: DNS S4507
       type: smartphone
     DNS S4508:
       name: DNS S4508
@@ -9122,6 +9182,9 @@ device_models:
       size: 5
       type: smartphone
   DOOV:
+    C7:
+      name: DOOV C7
+      type: smartphone
     D10:
       name: DOOV D10
       type: smartphone
@@ -9163,6 +9226,9 @@ device_models:
     D770:
       name: DOOV D770
       size: 4
+      type: smartphone
+    D8:
+      name: DOOV D8
       type: smartphone
     D910T:
       name: DOOV D910T
@@ -10257,6 +10323,9 @@ device_models:
     IQ431:
       name: Fly IQ431 Glory
       type: smartphone
+    IQ432:
+      name: Fly IQ432 Era Nano 1
+      type: smartphone
     IQ434:
       name: Fly IQ434 Era Nano 5
       type: smartphone
@@ -10584,6 +10653,9 @@ device_models:
       type: smartphone
     F-05F:
       model: F-02G
+    F-05G:
+      name: Fujitsu Arrows
+      type: smartphone
     F-06E:
       model: F-02G
     F-06F:
@@ -11179,6 +11251,9 @@ device_models:
     0PJA13:
       brand: HTC
       model: 0PJA11
+    0PJA2:
+      brand: HTC
+      model: 0PJA11
     0PJA20:
       brand: HTC
       model: 0PJA11
@@ -11201,6 +11276,8 @@ device_models:
       brand: Archos
     101 G4:
       brand: Arnova
+    101 Helium:
+      brand: Archos
     101 Neon:
       brand: Archos
     101 Oxygen:
@@ -11533,11 +11610,15 @@ device_models:
       type: smartphone
     5.3s Platinum:
       brand: Archos
+    50 Diamond:
+      brand: Archos
     50 Helium 4G:
       brand: Archos
     50 Neon:
       brand: Archos
     50 Oxygen:
+      brand: Archos
+    50 Oxygen Plus:
       brand: Archos
     50 Platinum:
       brand: Archos
@@ -11733,6 +11814,9 @@ device_models:
     6043D:
       brand: Alcatel
       model: 6043A
+    6045B:
+      brand: Alcatel
+      model: 6045I
     6045I:
       brand: Alcatel
     6045K:
@@ -11839,6 +11923,8 @@ device_models:
       model: 7044A
     7045Y:
       brand: Alcatel
+    7046T:
+      brand: Alcatel
     7050Y:
       brand: Alcatel
     7055A:
@@ -11852,6 +11938,8 @@ device_models:
     709d:
       brand: HTC
     70b TITANIUM:
+      brand: Archos
+    70b Xenon:
       brand: Archos
     70c Cobalt:
       brand: Archos
@@ -12121,6 +12209,8 @@ device_models:
     A092:
       brand: Micromax
     A093:
+      brand: Micromax
+    A096:
       brand: Micromax
     A1:
       brand: Karbonn
@@ -12492,6 +12582,8 @@ device_models:
       brand: Lenovo
     A30t:
       brand: Lenovo
+    A31:
+      brand: Oppo
     A310:
       brand: Mito
     A310b:
@@ -12972,9 +13064,9 @@ device_models:
       brand: Archos
     A71:
       brand: Micromax
-      model: a71
     a71:
       brand: Micromax
+      model: A71
     A710:
       brand: Lenovo
     A718:
@@ -13603,6 +13695,9 @@ device_models:
       brand: Alcor
     ALE-CL00:
       brand: Huawei
+    ALE-L02:
+      brand: Huawei
+      model: ALE-CL00
     ALE-L04:
       brand: Huawei
       model: ALE-CL00
@@ -13618,6 +13713,8 @@ device_models:
     ALE-UL00:
       brand: Huawei
       model: ALE-CL00
+    Alfa L:
+      brand: Xolo
     alien jolla bionic:
       brand: Jolla
     alien ubuntu qt:
@@ -13666,7 +13763,6 @@ device_models:
       brand: Hi-Tech
     AMAZE S200:
       brand: Hi-Tech
-      model: Hitech Amaze S200 3G
     Amaze S400:
       brand: Hi-Tech
     Amaze S500:
@@ -13694,6 +13790,8 @@ device_models:
     Amazing X2:
       brand: TWM
     Amazing X3:
+      brand: TWM
+    Amazing X5:
       brand: TWM
     amd brazos:
       brand: AMD
@@ -13878,6 +13976,8 @@ device_models:
       brand: iBall
     Andi5-E7:
       brand: iBall
+    Andi5-M8:
+      brand: iBall
     Andi5.5 N2:
       brand: iBall
     Andi5h quadro:
@@ -14029,6 +14129,8 @@ device_models:
     Aprix D97+:
       brand: Aprix
     AQ4501:
+      brand: Micromax
+    AQ4502:
       brand: Micromax
     AQ5001:
       brand: Micromax
@@ -14633,6 +14735,8 @@ device_models:
       brand: Bmobile
     AX540:
       brand: Bmobile
+    AX570:
+      brand: Bmobile
     AX5NanoQ:
       brand: Allview
     AX600:
@@ -14644,6 +14748,8 @@ device_models:
     AX650:
       brand: Bmobile
     AX660:
+      brand: Bmobile
+    AX670:
       brand: Bmobile
     AX745:
       brand: Bmobile
@@ -14684,6 +14790,8 @@ device_models:
     B1-750:
       brand: Acer
     B1-760:
+      brand: Acer
+    B1-760HD:
       brand: Acer
     B1-770:
       brand: Acer
@@ -15038,6 +15146,8 @@ device_models:
     BK2021: {}
     BKO-S200 TV:
       brand: B box
+    BLACK:
+      brand: Xolo
     Black Hole:
       brand: NGM
     "BLACKBERRY P'9982":
@@ -15104,6 +15214,8 @@ device_models:
       brand: ZTE
     Blade Q Mini:
       brand: ZTE
+    Blade Q1:
+      brand: ZTE
     Blade S:
       brand: ZTE
     Blade S6:
@@ -15115,6 +15227,10 @@ device_models:
     Blade V:
       brand: ZTE
     Blade V2:
+      brand: ZTE
+    Blade V220:
+      brand: ZTE
+    Blade V6:
       brand: ZTE
     Blade Vec:
       brand: ZTE
@@ -15803,8 +15919,13 @@ device_models:
       brand: ChangHong
     CHARM: {}
     Chaser: {}
+    CHC-U01:
+      brand: Huawei
     CHC-U03:
       brand: Huawei
+    CHE-TL00H:
+      brand: Huawei
+      model: Che1-CL10
     Che1-CL10:
       brand: Huawei
     Che1-CL20:
@@ -15814,6 +15935,9 @@ device_models:
       brand: Huawei
       model: Che1-CL10
     Che2-L11:
+      brand: Huawei
+      model: Che1-CL10
+    Che2-L12:
       brand: Huawei
       model: Che1-CL10
     Che2-TL00:
@@ -15852,6 +15976,9 @@ device_models:
       brand: Cherry Mobile
     CHM-CL00:
       brand: Huawei
+    CHM-TL00:
+      brand: Huawei
+      model: CHM-CL00
     CHM-TL00H:
       brand: Huawei
       model: CHM-CL00
@@ -15979,6 +16106,8 @@ device_models:
       brand: Cloudfone
     Cloudfone Excite 350g:
       brand: Cloudfone
+    Cloudfone Excite 354g:
+      brand: Cloudfone
     Cloudfone Excite 402d:
       brand: Cloudfone
     Cloudfone Excite 501o:
@@ -15987,7 +16116,11 @@ device_models:
       brand: Cloudfone
     Cloudfone GEO 400q+:
       brand: Cloudfone
+    Cloudfone GEO 402q:
+      brand: Cloudfone
     Cloudfone ICE 350e:
+      brand: Cloudfone
+    Cloudfone ICE 500e:
       brand: Cloudfone
     Cloudfone Thrill 430d:
       brand: Cloudfone
@@ -16002,6 +16135,8 @@ device_models:
     CloudPad 701tv:
       brand: Cloudfone
     Cloudpad 705w:
+      brand: Cloudfone
+    CloudPad 707qw:
       brand: Cloudfone
     Cloudpad 800d:
       brand: Cloudfone
@@ -16176,7 +16311,6 @@ device_models:
       model: Blade S
     Crespo:
       brand: LG
-      model: E-lap crespo
     Crespo4G:
       type: smartphone
     Cross A1:
@@ -16395,7 +16529,17 @@ device_models:
       brand: Mobistel
     Cynus F4:
       brand: Mobistel
+    Cynus F5:
+      brand: Mobistel
     Cynus F6:
+      brand: Mobistel
+    Cynus T1:
+      brand: Mobistel
+    Cynus T2:
+      brand: Mobistel
+    Cynus T5:
+      brand: Mobistel
+    Cynus T7:
       brand: Mobistel
     Cyrus:
       type: smartphone
@@ -16803,6 +16947,8 @@ device_models:
       brand: DOOV
     D7800AD:
       brand: Honeywell
+    D8:
+      brand: DOOV
     D80:
       brand: Icoo
     D800:
@@ -17139,6 +17285,8 @@ device_models:
     Desire 816 dual sim:
       brand: HTC
       model: 710C
+    Desire 816G:
+      brand: HTC
     Desire 816G dual sim:
       brand: HTC
     Desire 820:
@@ -17397,6 +17545,8 @@ device_models:
       brand: DNS
     DNS AirTab M974w:
       brand: DNS
+    DNS AirTab MF1011:
+      brand: DNS
     DNS AirTab P101w:
       brand: DNS
     DNS AirTab P71g:
@@ -17410,9 +17560,13 @@ device_models:
       brand: DNS
     DNS s4003:
       brand: DNS
+    DNS S4006:
+      brand: DNS
     DNS S4502:
       brand: DNS
     DNS S4502M:
+      brand: DNS
+    DNS S4507:
       brand: DNS
     DNS S4508:
       brand: DNS
@@ -17433,7 +17587,7 @@ device_models:
       brand: Domod
     Dooderbutt:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     DP5107: {}
     DP7856K: {}
     DPH-D710:
@@ -17649,6 +17803,7 @@ device_models:
       brand: LG
     E-lap crespo:
       brand: LG
+      model: Crespo
     E-lap maguro:
       brand: LG
     E-lap mako:
@@ -17927,8 +18082,12 @@ device_models:
       brand: SonyEricsson
     E621:
       brand: K-Touch
+    E6333:
+      brand: Sony
     E650:
       brand: K-Touch
+    E6508:
+      brand: Sony
     E6553:
       type: smartphone
     E656:
@@ -18078,6 +18237,10 @@ device_models:
     E989:
       brand: LG
       model: E-E988
+    E9pw:
+      brand: HTC
+    E9w:
+      brand: HTC
     Eagle: {}
     EAGLE7 3G:
       type: smartphone
@@ -18682,6 +18845,8 @@ device_models:
     F-05F:
       brand: Fujitsu
       model: F-02G
+    F-05G:
+      brand: Fujitsu
     F-06E:
       brand: Fujitsu
       model: F-02G
@@ -18880,6 +19045,9 @@ device_models:
       brand: Oppo
     Find7:
       brand: Oppo
+    find7:
+      brand: Oppo
+      model: Find7
     Find7a:
       brand: Oppo
     Fire Phone:
@@ -19186,7 +19354,7 @@ device_models:
       brand: HTC
       model: X315b
     G2S:
-      brand: Jiayu
+      brand: JiaYu
     G3:
       brand: LG
       model: AS990
@@ -19202,7 +19370,7 @@ device_models:
     G350:
       brand: Huawei
     G5:
-      brand: Jiayu
+      brand: JiaYu
     G51 Wynncom:
       type: smartphone
     G510:
@@ -19229,7 +19397,7 @@ device_models:
     G535-L11:
       brand: Huawei
     G6:
-      brand: Jiayu
+      brand: JiaYu
     G6-C00:
       brand: Huawei
     G6-L11:
@@ -19431,6 +19599,9 @@ device_models:
     Galaxy Note 3 N9000:
       brand: Samsung
       model: Galaxy N3
+    Galaxy Note 4:
+      brand: Samsung
+      model: SM-N910
     Galaxy Note I:
       brand: Samsung
       model: Galaxy Note
@@ -19440,6 +19611,9 @@ device_models:
     GALAXY Note III:
       brand: Samsung
       model: Galaxy N3
+    GALAXY Note4:
+      brand: Samsung
+      model: SM-N910
     Galaxy NoteIII:
       brand: Samsung
       model: Galaxy N3
@@ -19473,6 +19647,12 @@ device_models:
       brand: Samsung
     GALAXY S5:
       brand: Samsung
+    Galaxy S6:
+      brand: Samsung
+      model: SC-05G
+    Galaxy S6 Edge:
+      brand: Samsung
+      model: SC-04G
     Galaxy SIII:
       brand: Samsung
       model: Galaxy S III
@@ -19501,6 +19681,9 @@ device_models:
     GalaxyS2:
       brand: Samsung
       model: DPH-D710
+    GalaxyS4:
+      brand: Samsung
+      model: Galaxy S IV(I950X)
     GAMEPAD:
       brand: Archos
     GAMEPAD2:
@@ -19539,6 +19722,9 @@ device_models:
       brand: ZTE
     Geek 2:
       brand: ZTE
+    GEEK II 4G:
+      brand: ZTE
+      model: Geek 2
     GEEK II Pro 4G:
       brand: ZTE
     GEM10312BK:
@@ -20025,7 +20211,7 @@ device_models:
       model: Flounder
     Google Nexus S:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     Google Nexus S - 4.1.1 - API 16 - 480x800:
       type: smartphone
     Google Nexus10:
@@ -20116,6 +20302,8 @@ device_models:
     GRA-CL10:
       brand: Huawei
       model: GRA-CL00
+    GRA-L09:
+      brand: Huawei
     GRA-TL00:
       brand: Huawei
       model: GRA-CL00
@@ -20189,6 +20377,8 @@ device_models:
     GS03:
       brand: Huawei
       model: 201HW
+    GSmart Akta A4:
+      brand: Gigabyte
     GSmart Aku A1:
       brand: Gigabyte
     GSmart Alto A2:
@@ -20226,10 +20416,14 @@ device_models:
       brand: Gigabyte
     GSmart Mika M3:
       brand: Gigabyte
+    GSmart Rey R3:
+      brand: Gigabyte
     GSmart Rio R1:
       brand: Gigabyte
       model: GIGABYTE GSmart Rio R1
     GSmart Roma R2:
+      brand: Gigabyte
+    GSmart Saga S3:
       brand: Gigabyte
     GSmart Sierra S1:
       brand: Gigabyte
@@ -20894,6 +21088,9 @@ device_models:
       model: C525c
     H320:
       brand: LG
+    H324:
+      brand: LG
+      model: H320
     H326:
       brand: LG
       model: H320
@@ -20904,7 +21101,12 @@ device_models:
     H342:
       brand: LG
       model: H320
+    H345:
+      brand: LG
+      model: H320
     H350: {}
+    H410:
+      brand: LG
     H420:
       brand: LG
     H422:
@@ -20978,8 +21180,14 @@ device_models:
       type: smartphone
     H6000:
       brand: Hero
+    H631:
+      brand: LG
+      model: MS631
     H635:
       brand: LG
+    H636:
+      brand: LG
+      model: MS631
     H7:
       brand: Tecno
     H700: {}
@@ -21009,6 +21217,9 @@ device_models:
       brand: Hero
     H810:
       brand: LG
+    H811:
+      brand: LG
+      model: H810
     H812:
       brand: LG
       model: H810
@@ -21230,6 +21441,7 @@ device_models:
     HIT HT7070MG: {}
     Hitech Amaze S200 3G:
       brand: Hi-Tech
+      model: AMAZE S200
     Hitech S450:
       brand: Hi-Tech
     Hitman DG850:
@@ -21755,7 +21967,11 @@ device_models:
       brand: imobile
     i-style 2.6A:
       brand: imobile
+    i-STYLE 210:
+      brand: imobile
     i-STYLE 215:
+      brand: imobile
+    i-STYLE 218:
       brand: imobile
     i-style 3:
       brand: imobile
@@ -21781,6 +21997,12 @@ device_models:
     i-style 8:
       brand: imobile
     i-STYLE 8.2:
+      brand: imobile
+    i-STYLE 8.3 DTV:
+      brand: imobile
+    i-STYLE 8.6 DTV:
+      brand: imobile
+    i-STYLE Q 5:
       brand: imobile
     i-STYLE Q 5A:
       brand: imobile
@@ -21845,6 +22067,8 @@ device_models:
       brand: Ninetology
     i5350:
       brand: Ninetology
+    i5i:
+      brand: Qmobile
     i6:
       type: smartphone
     I60:
@@ -21877,6 +22101,8 @@ device_models:
       brand: Malata
     i8:
       brand: Ramos
+    i800:
+      brand: TCL
     i803w:
       brand: Phicomm
     i806:
@@ -22206,6 +22432,9 @@ device_models:
       brand: Digma
     iDxD7 3G:
       brand: Digma
+    IDXD8:
+      brand: Digma
+      model: iDxD8 3G
     iDxD8 3G:
       brand: Digma
     iDxQ5:
@@ -22253,6 +22482,10 @@ device_models:
     Ilium AVVIO 760:
       brand: Avvio
       model: "760"
+    ILIUM L400:
+      brand: Lanix
+    ILIUM L900:
+      brand: Lanix
     ilium Pad E10:
       brand: Lanix
     ILIUM PAD E10Si: {}
@@ -22279,6 +22512,8 @@ device_models:
     ILIUM S520:
       brand: Lanix
     ILIUM S600:
+      brand: Lanix
+    ILIUM S670:
       brand: Lanix
     ILIUM S700:
       brand: Lanix
@@ -22690,7 +22925,11 @@ device_models:
       brand: imobile
     IQ 9.2A:
       brand: imobile
+    IQ BIG:
+      brand: imobile
     IQ X:
+      brand: imobile
+    IQ X zeen:
       brand: imobile
     IQ X2:
       brand: imobile
@@ -22743,6 +22982,8 @@ device_models:
     IQ430:
       brand: Fly
     IQ431:
+      brand: Fly
+    IQ432:
       brand: Fly
     IQ434:
       brand: Fly
@@ -23004,7 +23245,6 @@ device_models:
       brand: Pantech
     IS11S:
       brand: SonyEricsson
-      model: Xperia Acro
     IS11SH:
       brand: Sharp
     IS11T:
@@ -23017,7 +23257,6 @@ device_models:
       model: RAZR
     IS12S:
       brand: Sony
-      model: SO-03D
     IS12SH:
       brand: Sharp
     IS13SH:
@@ -23148,33 +23387,33 @@ device_models:
       brand: HTC
       model: EVO G20 T9399  For Sprint
     JIAYU F1:
-      brand: Jiayu
-    Jiayu G2:
-      brand: Jiayu
-    Jiayu G2H:
-      brand: Jiayu
-    Jiayu G2L:
-      brand: Jiayu
-    Jiayu G2s:
-      brand: Jiayu
+      brand: JiaYu
+    JiaYu G2:
+      brand: JiaYu
+    JiaYu G2H:
+      brand: JiaYu
+    JiaYu G2L:
+      brand: JiaYu
+    JiaYu G2s:
+      brand: JiaYu
       model: G2S
-    Jiayu G3:
-      brand: Jiayu
+    JiaYu G3:
+      brand: JiaYu
       model: G3
     JIAYU G3S:
-      brand: Jiayu
-    Jiayu G4S:
-      brand: Jiayu
-    Jiayu G5S:
-      brand: Jiayu
+      brand: JiaYu
+    JiaYu G4S:
+      brand: JiaYu
+    JiaYu G5S:
+      brand: JiaYu
     JIAYU-G3:
-      brand: Jiayu
+      brand: JiaYu
       model: G3
     JIAYU-G4S:
-      brand: Jiayu
-      model: Jiayu G4S
+      brand: JiaYu
+      model: JiaYu G4S
     JIAYU.G3S:
-      brand: Jiayu
+      brand: JiaYu
       model: JIAYU G3S
     JIMMY:
       brand: Wiko
@@ -23212,72 +23451,80 @@ device_models:
     JUST5SPACER:
       type: smartphone
     JY G2F:
-      brand: Jiayu
+      brand: JiaYu
     JY G4C:
-      brand: Jiayu
+      brand: JiaYu
     JY-F1:
-      brand: Jiayu
+      brand: JiaYu
+      model: JIAYU F1
     JY-F2:
-      brand: Jiayu
+      brand: JiaYu
     JY-G1:
-      brand: Jiayu
+      brand: JiaYu
     JY-G2:
-      brand: Jiayu
+      brand: JiaYu
+      model: JiaYu G2
     JY-G2 64:
-      brand: Jiayu
-      model: Jiayu G2
+      brand: JiaYu
+      model: JiaYu G2
     JY-G2 DualCore(Standard):
-      brand: Jiayu
-      model: Jiayu G2
+      brand: JiaYu
+      model: JiaYu G2
     JY-G2F:
-      brand: Jiayu
+      brand: JiaYu
+      model: JY G2F
     JY-G2H:
-      brand: Jiayu
-      model: Jiayu G2H
+      brand: JiaYu
+      model: JiaYu G2H
     JY-G2L:
-      brand: Jiayu
-      model: Jiayu G2L
+      brand: JiaYu
+      model: JiaYu G2L
     JY-G2LS:
-      brand: Jiayu
+      brand: JiaYu
     JY-G3:
-      brand: Jiayu
+      brand: JiaYu
+      model: G3
     JY-G3C:
-      brand: Jiayu
+      brand: JiaYu
     JY-G3N:
-      brand: Jiayu
+      brand: JiaYu
     JY-G3S:
-      brand: Jiayu
+      brand: JiaYu
       model: JIAYU G3S
     JY-G4:
-      brand: Jiayu
+      brand: JiaYu
     JY-G4 G5:
-      brand: Jiayu
+      brand: JiaYu
       model: JY-G4
     "JY-G4\\G5":
-      brand: Jiayu
+      brand: JiaYu
       model: JY-G4
     JY-G4C:
-      brand: Jiayu
+      brand: JiaYu
+      model: JY G4C
     JY-G4S:
-      brand: Jiayu
+      brand: JiaYu
+      model: JiaYu G4S
     JY-G5:
-      brand: Jiayu
+      brand: JiaYu
     JY-G5S:
-      brand: Jiayu
+      brand: JiaYu
+      model: JiaYu G5S
     JY-G5S+:
-      brand: Jiayu
+      brand: JiaYu
     JY-G6:
-      brand: Jiayu
+      brand: JiaYu
+      model: G6
     JY-S2:
-      brand: Jiayu
+      brand: JiaYu
     JY-S3:
-      brand: Jiayu
+      brand: JiaYu
     JY-S3S:
-      brand: Jiayu
+      brand: JiaYu
     JY139:
       type: smartphone
     JYG3N:
-      brand: Jiayu
+      brand: JiaYu
       model: JY-G3N
     K Touch E616:
       brand: K-Touch
@@ -23517,6 +23764,8 @@ device_models:
       brand: ZTE
     KIS II Max:
       brand: ZTE
+    Kis II Max plus:
+      brand: ZTE
     Kis Lite:
       brand: ZTE
     KIS PLUS:
@@ -23668,6 +23917,10 @@ device_models:
     KYV32:
       brand: Kyocera
     KYV33:
+      brand: Kyocera
+    KYV34:
+      brand: Kyocera
+    KYV35:
       brand: Kyocera
     KYY21:
       brand: Kyocera
@@ -24050,18 +24303,24 @@ device_models:
     LGL15G:
       brand: LG
       model: L15G
+    LGL16C:
+      brand: LG
     LGL21:
       brand: LG
       model: E970
     LGL22:
       brand: LG
       model: D800
+    LGL22C:
+      brand: LG
     LGL23:
       brand: LG
       model: D950
     LGL24:
       brand: LG
     LGL31L:
+      brand: LG
+    LGL33L:
       brand: LG
     LGL34C:
       brand: LG
@@ -24099,7 +24358,6 @@ device_models:
       model: G100W
     Libra:
       brand: ZTE
-      model: LIBRA
     LIFE:
       brand: Blu
     Life 4 Plus:
@@ -24252,6 +24510,9 @@ device_models:
       brand: LG
     LS751:
       brand: LG
+    LS770:
+      brand: LG
+      model: MS631
     LS840:
       brand: LG
     LS855:
@@ -24722,6 +24983,9 @@ device_models:
     M50: {}
     M502:
       type: smartphone
+    M50w:
+      brand: Sony
+      model: D5102
     M510:
       brand: InFocus
     M511:
@@ -26161,6 +26425,9 @@ device_models:
     MS323:
       brand: LG
       model: AS323
+    MS345:
+      brand: LG
+      model: H320
     MS395:
       brand: LG
     MS3A:
@@ -26603,7 +26870,6 @@ device_models:
     myPad P4 Lite: {}
     myTouch:
       brand: Huawei
-      model: U8680
     myTouch 3G:
       brand: HTC
     myTouch 3G Slide:
@@ -26620,7 +26886,6 @@ device_models:
       brand: T-Mobile
     myTouch Q:
       brand: Huawei
-      model: U8730
     myTouch Slide 4G:
       brand: T-Mobile
       model: myTouch 4G Slide
@@ -27114,31 +27379,31 @@ device_models:
     NETBOOK R103:
       brand: GoClever
     NetTab iconBIT:
-      brand: IconBit
+      brand: iconBIT
     NetTAB Matrix:
-      brand: IconBit
+      brand: iconBIT
     NetTAB Pocket:
-      brand: IconBit
+      brand: iconBIT
     NetTAB RUNE:
-      brand: IconBit
+      brand: iconBIT
     NetTAB SKY:
-      brand: IconBit
+      brand: iconBIT
     NetTAB SKY II:
-      brand: IconBit
+      brand: iconBIT
     NetTAB Space 3G:
-      brand: IconBit
+      brand: iconBIT
     NetTAB SPACE II:
-      brand: IconBit
+      brand: iconBIT
     NetTAB SPACE II Plus:
-      brand: IconBit
+      brand: iconBIT
     NetTAB SPACE III:
-      brand: IconBit
+      brand: iconBIT
     NetTAB THOR:
-      brand: IconBit
+      brand: iconBIT
     NetTAB THOR mini:
-      brand: IconBit
+      brand: iconBIT
     NetTAB THOR-LE:
-      brand: IconBit
+      brand: iconBIT
     NEW 8A: {}
     New Andromax-i:
       brand: Smartfren
@@ -27236,7 +27501,7 @@ device_models:
       brand: Asus
     Nexus S:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     Nexus S 4G:
       brand: Samsung
       model: GT-I9023
@@ -27509,70 +27774,70 @@ device_models:
     NSZ-GU1:
       brand: Sony
     NT-0701S:
-      brand: IconBit
+      brand: iconBIT
     NT-0704M:
-      brand: IconBit
+      brand: iconBIT
     NT-0705M:
-      brand: IconBit
+      brand: iconBIT
     NT-0709M:
-      brand: IconBit
+      brand: iconBIT
     NT-0711M:
-      brand: IconBit
+      brand: iconBIT
       model: NT-0709M
     NT-0801C:
-      brand: IconBit
+      brand: iconBIT
     NT-0806C:
-      brand: IconBit
+      brand: iconBIT
     NT-0901S:
-      brand: IconBit
+      brand: iconBIT
     NT-0909T:
-      brand: IconBit
+      brand: iconBIT
     NT-1001T:
-      brand: IconBit
+      brand: iconBIT
       model: NetTAB THOR-LE
     NT-1002T:
-      brand: IconBit
+      brand: iconBIT
       model: NetTAB THOR-LE
     NT-1004T:
-      brand: IconBit
+      brand: iconBIT
     NT-1008T:
-      brand: IconBit
+      brand: iconBIT
     NT-1009T:
-      brand: IconBit
+      brand: iconBIT
     NT-1010T:
-      brand: IconBit
+      brand: iconBIT
       model: NetTAB THOR-LE
     NT-1011T:
-      brand: IconBit
+      brand: iconBIT
       model: NetTAB THOR-LE
     NT-1020T:
-      brand: IconBit
+      brand: iconBIT
     NT-1021T:
-      brand: IconBit
+      brand: iconBIT
       model: NT-1020T
     NT-1501C:
-      brand: IconBit
+      brand: iconBIT
     NT-3506M:
-      brand: IconBit
+      brand: iconBIT
     NT-3507M:
-      brand: IconBit
+      brand: iconBIT
     NT-3513M:
-      brand: IconBit
+      brand: iconBIT
     NT-3601P:
-      brand: IconBit
+      brand: iconBIT
       model: NetTAB Pocket
     NT-3602M:
-      brand: IconBit
+      brand: iconBIT
     NT-3701S:
-      brand: IconBit
+      brand: iconBIT
     NT-3702M:
-      brand: IconBit
+      brand: iconBIT
     NT-3702S:
-      brand: IconBit
+      brand: iconBIT
     NT-3710S:
-      brand: IconBit
+      brand: iconBIT
     NT-3805C:
-      brand: IconBit
+      brand: iconBIT
     Nubia X6:
       brand: ZTE
     Nubia Z7:
@@ -27709,6 +27974,48 @@ device_models:
       brand: NYX Mobile
     NYX ZEUZ HD:
       brand: NYX Mobile
+    O+ 8.12 Android:
+      brand: O+
+    O+ 8.15 Android:
+      brand: O+
+    O+ 8.16 Android:
+      brand: O+
+    O+ 8.31z Android:
+      brand: O+
+    O+ 8.36z Android:
+      brand: O+
+    O+ 8.37 Android:
+      brand: O+
+    O+ 8.5 Android:
+      brand: O+
+    O+ 8.52 Android:
+      brand: O+
+    O+ 8.6 Android:
+      brand: O+
+    O+ 8.7 Android:
+      brand: O+
+    O+ 8.75 Android:
+      brand: O+
+    O+ 8.9 Android:
+      brand: O+
+    O+ 8.91 Android:
+      brand: O+
+    O+ 8.92 Android:
+      brand: O+
+    O+ 9.76:
+      brand: O+
+    O+ AIR:
+      brand: O+
+    O+ FAB 3G:
+      brand: O+
+    O+ FAB ELITE:
+      brand: O+
+    O+ TABLET:
+      brand: O+
+    O+8.1Android:
+      brand: O+
+    O+FAB COLOR:
+      brand: O+
     O2 Joggler:
       brand: O2
     O50Q:
@@ -27859,6 +28166,8 @@ device_models:
       brand: HTC
       model: C525c
     ONE TOCH 992D:
+      brand: Alcatel
+    One Touch:
       brand: Alcatel
     One Touch 4005:
       brand: Alcatel
@@ -28029,6 +28338,8 @@ device_models:
     One Touch 918:
       brand: Alcatel
       model: BASE Varia
+    One Touch 919:
+      brand: Alcatel
     One Touch 922:
       brand: Alcatel
     One Touch 927:
@@ -28088,7 +28399,7 @@ device_models:
       brand: Alcatel
     One Touch EVO8HD:
       brand: Alcatel
-    One Touch fierce:
+    One Touch Fierce:
       brand: Alcatel
       model: One Touch 7024
     One Touch Flash Plus:
@@ -28221,6 +28532,8 @@ device_models:
       brand: Opsson
     OPSSON IDO 5311:
       brand: Opsson
+    OPSSON IDO 5322:
+      brand: Opsson
     OPSSON IDO5300:
       brand: Opsson
     OPSSON iMO1000:
@@ -28339,9 +28652,7 @@ device_models:
     Orange Dublin:
       brand: Orange
     Orange Fova:
-      display: 480x854
-      size: 5
-      type: smartphone
+      brand: Orange
     Orange Gova:
       brand: Orange
     Orange Hi 4G:
@@ -28372,6 +28683,8 @@ device_models:
       brand: Orange
     Orange San Francisco:
       brand: ZTE
+    Orange Tado:
+      brand: Orange
     Orange Yomi:
       brand: Orange
     Orange Yumo:
@@ -28583,6 +28896,8 @@ device_models:
       brand: Micromax
     P470:
       brand: Micromax
+    P480:
+      brand: Micromax
     P490:
       brand: LG
     P4D Sirius:
@@ -28690,6 +29005,8 @@ device_models:
     P659:
       brand: LG
       model: LS720
+    P666:
+      brand: Micromax
     P688L:
       brand: TCL
     P689L:
@@ -28976,7 +29293,7 @@ device_models:
       type: tablet
     P940:
       brand: LG
-      model: LU5400
+      model: KU5400
     P970:
       brand: LG
       model: KU5900
@@ -30229,6 +30546,8 @@ device_models:
       brand: Prestigio
     PSP5457DUO:
       brand: Prestigio
+    PSP5470DUO:
+      brand: Prestigio
     PSP5504DUO:
       brand: Prestigio
     PSP5505DUO:
@@ -30244,6 +30563,8 @@ device_models:
     PSP7557:
       brand: Prestigio
     PSPC505:
+      brand: Polaroid
+    PSPT401:
       brand: Polaroid
     pt;CCE SK352: {}
     PTAB4300:
@@ -30371,6 +30692,8 @@ device_models:
       brand: ZTE
     Q302C:
       brand: ZTE
+    Q355:
+      brand: Micromax
     Q360: {}
     Q370: {}
     Q372:
@@ -30712,7 +31035,13 @@ device_models:
       brand: Oppo
     R819T:
       brand: Oppo
+    R8201:
+      brand: Oppo
     R8205:
+      brand: Oppo
+    R8206:
+      brand: Oppo
+    R8207:
       brand: Oppo
     R821:
       brand: Oppo
@@ -31177,6 +31506,8 @@ device_models:
       brand: ZTE
     S2005A-H:
       brand: Lenovo
+    S2010:
+      brand: ZTE
     S208:
       brand: Cubot
     S20A: {}
@@ -31393,6 +31724,8 @@ device_models:
       brand: K-Touch
     S6:
       brand: Vivo
+    S6-NT:
+      brand: Coolpad
     S60:
       type: smartphone
     S60-a:
@@ -31428,6 +31761,8 @@ device_models:
       brand: Lenovo
     S668t:
       brand: Lenovo
+    S67:
+      brand: IMO
     S68:
       brand: IMO
     S680:
@@ -31443,6 +31778,8 @@ device_models:
     S7-312u:
       brand: Huawei
       model: MediaPad
+    S70:
+      brand: IMO
     S700:
       brand: TCL
     S700A: {}
@@ -32358,13 +32695,19 @@ device_models:
       brand: Sharp
     SH-03F:
       brand: Sharp
+    SH-03G:
+      brand: Sharp
     SH-04E:
       brand: Sharp
     SH-04F:
       brand: Sharp
+    SH-04G:
+      brand: Sharp
     SH-05E:
       brand: Sharp
     SH-05F:
+      brand: Sharp
+    SH-05G:
       brand: Sharp
     SH-06D:
       brand: Sharp
@@ -32373,6 +32716,8 @@ device_models:
     SH-06E:
       brand: Sharp
     SH-06F:
+      brand: Sharp
+    SH-06G:
       brand: Sharp
     SH-07C:
       brand: Sharp
@@ -32444,6 +32789,8 @@ device_models:
     Shark Bay Client platform:
       brand: Intel
     SHF31:
+      brand: Sharp
+    SHF32:
       brand: Sharp
     SHIELD:
       brand: Nvidia
@@ -32765,6 +33112,8 @@ device_models:
       brand: Samsung
     SM-A700:
       brand: Samsung
+    SM-A800:
+      brand: Samsung
     SM-C101:
       brand: Samsung
       model: Galaxy S4 Zoom
@@ -32793,6 +33142,8 @@ device_models:
     SM-G130M:
       brand: Samsung
       model: SM-G130HN
+    SM-G150:
+      brand: Samsung
     SM-G310H:
       brand: Samsung
     SM-G310HN:
@@ -32926,6 +33277,8 @@ device_models:
     SM-G901:
       brand: Samsung
       model: GALAXY S5
+    SM-G903:
+      brand: Samsung
     SM-G906:
       brand: Samsung
       model: GALAXY S5
@@ -32944,6 +33297,8 @@ device_models:
     SM-G925:
       brand: Samsung
       model: SC-04G
+    SM-G928:
+      brand: Samsung
     SM-J100:
       brand: Samsung
     SM-J500:
@@ -33043,6 +33398,8 @@ device_models:
     SM-N916:
       brand: Samsung
       model: SM-N910
+    SM-N920:
+      brand: Samsung
     SM-P350:
       brand: Samsung
     SM-P351:
@@ -33185,6 +33542,9 @@ device_models:
     SM-T355:
       brand: Samsung
       model: SM-T350
+    SM-T357:
+      brand: Samsung
+      model: SM-T350
     SM-T360:
       brand: Samsung
     SM-T365:
@@ -33219,6 +33579,11 @@ device_models:
     SM-T555:
       brand: Samsung
       model: SM-T550
+    SM-T560:
+      brand: Samsung
+    SM-T561:
+      brand: Samsung
+      model: SM-T560
     SM-T700:
       brand: Samsung
       model: SC-03G
@@ -33247,6 +33612,9 @@ device_models:
     SM-T810:
       brand: Samsung
     SM-T815:
+      brand: Samsung
+      model: SM-T810
+    SM-T817:
       brand: Samsung
       model: SM-T810
     SM-T900:
@@ -33394,6 +33762,8 @@ device_models:
       brand: Vodafone
     SmartTabII7:
       brand: Vodafone
+    SmartWatch 3:
+      brand: Sony
     SMBA1002:
       brand: Malata
     SMBA9701:
@@ -33508,6 +33878,7 @@ device_models:
       model: ST18iv
     SO-03D:
       brand: Sony
+      model: IS12S
     SO-03E:
       brand: Sony
       model: SGP321
@@ -33524,6 +33895,8 @@ device_models:
     SO-04EM:
       brand: Sony
     SO-04F:
+      brand: Sony
+    SO-04G:
       brand: Sony
     SO-05D:
       brand: Sony
@@ -33613,8 +33986,14 @@ device_models:
     SOT21:
       brand: Sony
       model: SGP541
+    SOT31:
+      brand: Sony
+      model: SGP771
     SOUL:
       type: smartphone
+    SOV31:
+      brand: Sony
+      model: 402SO
     SP-A20i:
       brand: Мегафон
     SP355AWG:
@@ -33665,7 +34044,7 @@ device_models:
       brand: Samsung
     SPH-D720:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     SPH-L300:
       brand: Samsung
     SPH-L520:
@@ -34432,6 +34811,8 @@ device_models:
     T2:
       brand: Mobistel
       model: Cynus T2
+    T2-C01:
+      brand: Coolpad
     T20:
       brand: SmartQ
     T200:
@@ -34454,7 +34835,6 @@ device_models:
       brand: SmartQ
     t300:
       brand: Mito
-      model: T300
     T301:
       brand: Velocity Micro
     T31:
@@ -35224,7 +35604,8 @@ device_models:
     Telenor One Touch S:
       brand: Telenor
     Telenor OneTouch:
-      brand: Telenor
+      brand: Alcatel
+      model: One Touch
     Telenor S800:
       brand: Telenor
     Telenor Smart:
@@ -35567,11 +35948,11 @@ device_models:
     Tou ch3es:
       brand: K-Touch
     Toucan Stick 4K:
-      brand: IconBit
+      brand: iconBIT
     TOUCAN Stick G4:
-      brand: IconBit
+      brand: iconBIT
     TOUCAN Stick HD:
-      brand: IconBit
+      brand: iconBIT
     Touch Pro:
       brand: HTC
     Touch Pro 2:
@@ -36636,6 +37017,8 @@ device_models:
     V495:
       brand: LG
       model: LK430
+    V496:
+      brand: LG
     V4S: {}
     V5:
       brand: SmartQ
@@ -37218,6 +37601,10 @@ device_models:
     VitMod ExtraLite 1.6.5.fullodex for HTC HD7 Pro:
       brand: HTC
       model: HD7  Pro
+    VIV-vivo X5Max V:
+      brand: Vivo
+    VIV-vivo X5Pro V:
+      brand: Vivo
     VIV-vivo X5V:
       brand: Vivo
       model: BBG-vivo X5V
@@ -37420,6 +37807,9 @@ device_models:
     VS985 4G:
       brand: LG
       model: AS990
+    VS986:
+      brand: LG
+      model: H810
     VS999:
       brand: LG
       model: H810
@@ -37732,6 +38122,8 @@ device_models:
       brand: Walsun
     WALSUN S2:
       brand: Walsun
+    Watch Urbane:
+      brand: LG
     Wave 8: {}
     Wave3.5: {}
     WAX:
@@ -37951,13 +38343,17 @@ device_models:
       model: E19
     X10x:
       brand: SonyEricsson
+    X11:
+      brand: Qmobile
     X110-3G:
       type: tablet
     X111:
       type: tablet
     X12:
       brand: Bedove
-    X130: {}
+    X130:
+      brand: LG
+      model: D165
     X130 HD: {}
     X130v:
       brand: Phicomm
@@ -38043,6 +38439,8 @@ device_models:
     X350: {}
     X351:
       brand: Infinix
+    X3F:
+      brand: Vivo
     X3L:
       brand: Vivo
     X3S:
@@ -38083,7 +38481,7 @@ device_models:
     X4701:
       brand: Medion
     X5:
-      brand: IMO
+      brand: Qmobile
     X500:
       brand: ZTE
     X500 USA General:
@@ -38169,6 +38567,8 @@ device_models:
       brand: Vivo
     X5L:
       brand: Vivo
+    X5M:
+      brand: Vivo
     X5Max:
       brand: Vivo
     X5Max L:
@@ -38188,7 +38588,7 @@ device_models:
       brand: Vivo
       model: BBG-vivo X5V
     X6:
-      brand: Huawei
+      brand: Qmobile
     X601:
       brand: Xtouch
     X604:
@@ -38252,6 +38652,9 @@ device_models:
     X80h(FB6M):
       brand: Teclast
       model: X80h(FB5M)
+    X80HD(G2N8):
+      brand: Teclast
+      model: X80HD(G2N9)
     X80HD(G2N9):
       brand: Teclast
     X81-8G3D:
@@ -38329,6 +38732,9 @@ device_models:
     X98 3G(lite):
       brand: Teclast
       model: X98 3G(HKC1)
+    X98 Air 3G(C5J5):
+      brand: Teclast
+      model: X98 Air 3G(C5J6)
     X98 Air 3G(C5J6:
       type: tablet
     X98 Air 3G(C5J6):
@@ -38885,6 +39291,9 @@ device_models:
     XT1254:
       brand: Motorola
       model: XT1250
+    XT1524:
+      brand: Motorola
+      model: XT1526
     XT1526:
       brand: Motorola
     XT1528:
@@ -39150,6 +39559,8 @@ device_models:
       brand: Vivo
     Y13:
       brand: Vivo
+    Y13iL:
+      brand: Vivo
     Y13L:
       brand: Vivo
     Y13T:
@@ -39239,6 +39650,9 @@ device_models:
     Y330-U11:
       brand: Huawei
       model: Y320
+    Y336:
+      brand: Huawei
+      model: Y336-A1
     Y336-A1:
       brand: Huawei
     Y340-U081:
@@ -39273,6 +39687,9 @@ device_models:
       model: Y536
     Y540-U01:
       brand: Huawei
+    Y541:
+      brand: Huawei
+      model: Y541-U02
     Y541-U02:
       brand: Huawei
     Y550:
@@ -39285,6 +39702,9 @@ device_models:
       model: Y550
     Y560-L01:
       brand: Huawei
+    Y560-U12:
+      brand: Huawei
+      model: Y560-L01
     Y60:
       brand: Coolpad
     Y600-U00:
@@ -39504,6 +39924,8 @@ device_models:
       model: BP710A
     YUSUN - W 800:
       brand: Yusun
+    YUSUN -- W 900:
+      brand: Yusun
     YUSUN E98:
       brand: Yusun
     YUSUN L71:
@@ -39638,7 +40060,7 @@ device_models:
     Z512 Might Plus: {}
     Z512i: {}
     Z520:
-      type: smartphone
+      brand: Acer
     Z520e:
       brand: HTC
       model: One S
@@ -39691,6 +40113,10 @@ device_models:
       brand: ZTE
     Z750C:
       brand: ZTE
+    Z752C:
+      brand: ZTE
+    Z753G:
+      brand: ZTE
     Z755:
       brand: ZTE
     Z768G:
@@ -39710,6 +40136,10 @@ device_models:
     Z796C:
       brand: ZTE
     Z797C:
+      brand: ZTE
+    Z8:
+      brand: Qmobile
+    Z812:
       brand: ZTE
     Z813:
       brand: ZTE
@@ -39773,6 +40203,9 @@ device_models:
       brand: Highscreen
     Zera-S-Power:
       brand: Highscreen
+    ZeraF:
+      brand: Highscreen
+      model: Zera F
     ZERO:
       brand: Geeksphone
     Zielo Q23: {}
@@ -39835,6 +40268,8 @@ device_models:
     ZP300S:
       brand: Zopo
       model: ZP300
+    ZP330:
+      brand: Zopo
     ZP500:
       brand: Zopo
     ZP500+:
@@ -41073,6 +41508,9 @@ device_models:
     GSmart Mika M3:
       name: Gigabyte GSmart Mika M3
       type: smartphone
+    GSmart Rey R3:
+      name: Gigabyte GSmart Rey R3
+      type: smartphone
     GSmart Rio R1:
       model: GIGABYTE GSmart Rio R1
     GSmart Roma R2:
@@ -41080,6 +41518,9 @@ device_models:
       display: 480x800
       name: Gigabyte GSmart Roma R2
       size: 4
+      type: smartphone
+    GSmart Saga S3:
+      name: Gigabyte GSmart Saga S3
       type: smartphone
     GSmart Sierra S1:
       name: Gigabyte GSmart Sierra S1
@@ -41985,6 +42426,9 @@ device_models:
     Amaze HT-808:
       name: Hi-Tech Amaze HT-808
       type: smartphone
+    AMAZE S200:
+      name: Hi-Tech Amaze S200
+      type: smartphone
     Amaze S400:
       name: Hi-Tech Amaze S400
       type: smartphone
@@ -41992,8 +42436,7 @@ device_models:
       name: Hi-Tech Amaze S500
       type: smartphone
     Hitech Amaze S200 3G:
-      name: Hi-Tech Amaze S200
-      type: smartphone
+      model: AMAZE S200
     Hitech S450:
       name: Hi-Tech Amaze S450
       type: smartphone
@@ -42057,6 +42500,8 @@ device_models:
     Zera-S-Power:
       name: Highscreen Zera S Power
       type: smartphone
+    ZeraF:
+      model: Zera F
   HIKe:
     HIKe 716:
       name: HIKe Q1
@@ -42556,7 +43001,6 @@ device_models:
   hitech:
     AMAZE S200:
       brand: Hi-Tech
-      model: Hitech Amaze S200 3G
   Hito:
     HITO HT-3:
       name: Hito HT-3
@@ -42838,6 +43282,8 @@ device_models:
       type: smartphone
     0PJA13:
       model: 0PJA11
+    0PJA2:
+      model: 0PJA11
     0PJA20:
       model: 0PJA11
     301e:
@@ -42969,6 +43415,8 @@ device_models:
       name: HTC 8S
       type: smartphone
     8X:
+      model: 6990LVW
+    8x:
       model: 6990LVW
     8X by HTC:
       model: 6990LVW
@@ -43226,6 +43674,8 @@ device_models:
       model: A810e
     ChaCha A810e:
       model: A810e
+    Click:
+      model: A3288
     click:
       model: A3288
     Coquettish Red:
@@ -43532,6 +43982,9 @@ device_models:
       size: 3.7
     E9pw:
       type: smartphone
+    E9w:
+      name: HTC One (E9)
+      type: smartphone
     EndeavorU:
       name: "HTC One X AT&T"
       size: 4.7
@@ -43547,6 +44000,8 @@ device_models:
       size: 4.7
       type: smartphone
     ERIS:
+      model: ADR6200
+    eris:
       model: ADR6200
     Espresso:
       name: T-Mobile myTouch 3G Slide
@@ -43573,6 +44028,8 @@ device_models:
       name: HTC EVO 3D
       size: 4.3
       type: smartphone
+    Evo:
+      model: EVO
     EVO 3D:
       model: EVO
     EVO 3D GSM:
@@ -43662,6 +44119,10 @@ device_models:
       model: Dream
     G14:
       model: Z710
+    G2:
+      model: A7271
+    G2 Touch:
+      model: A6277
     G20:
       size: 3.7
       type: smartphone
@@ -43943,6 +44404,10 @@ device_models:
       model: 7 Trophy
     my Touch 3G Slide:
       model: Espresso
+    My Touch 4G:
+      model: Glacier
+    My Touch4G:
+      model: Glacier
     myTouch 3G:
       name: T-Mobile myTouch 3G
       type: smartphone
@@ -43954,10 +44419,16 @@ device_models:
       name: HTC T-Mobile myTouch 4G
       size: 3.8
       type: smartphone
+    myTouch 4G:
+      model: Glacier
+    myTouch 4g:
+      model: Glacier
     myTouch 4G Slide:
       name: HTC T-Mobile myTouch 4G Slide
       size: 3.7
       type: smartphone
+    MyTouch4G:
+      model: Glacier
     myTouch4G:
       model: MyTouch 4G
     Nexus 9:
@@ -44013,12 +44484,16 @@ device_models:
       model: 0PJA11
     One Max:
       model: "8060"
+    One max:
+      model: "8060"
     One max dual:
       model: "8060"
     One Mini:
       name: HTC One mini
       size: 4.3
       type: smartphone
+    One mini:
+      model: One Mini
     One mini 2:
       model: 0P8B2
     One mini 601e:
@@ -44093,6 +44568,8 @@ device_models:
     P512:
       model: Flyer
     P515E:
+      model: Flyer
+    P515e:
       model: Flyer
     P715:
       name: HTC Jetstream
@@ -44358,6 +44835,8 @@ device_models:
       type: smartphone
     SurroundT8788:
       type: smartphone
+    T-mobile my touch 3g slide:
+      model: Espresso
     T-Mobile myTouch 3G Slide:
       model: Espresso
     T120C:
@@ -44598,9 +45077,13 @@ device_models:
       model: EVO
     X515C:
       model: EVO
+    X515c:
+      model: EVO
     X515d:
       model: Raider
     X515E:
+      model: EVA UL
+    X515e:
       model: EVA UL
     X515E 4GS:
       model: EVA UL
@@ -44709,6 +45192,8 @@ device_models:
     ALE-CL00:
       name: Huawei Ascend P8 Lite
       type: smartphone
+    ALE-L02:
+      model: ALE-CL00
     ALE-L04:
       model: ALE-CL00
     ALE-L21:
@@ -44871,6 +45356,8 @@ device_models:
     CHC-U03:
       name: Huawei Ascend G650
       type: smartphone
+    CHE-TL00H:
+      model: Che1-CL10
     Che1-CL10:
       name: Huawei Honor 4X
       type: smartphone
@@ -44880,6 +45367,8 @@ device_models:
       model: Che1-CL10
     Che2-L11:
       model: Che1-CL10
+    Che2-L12:
+      model: Che1-CL10
     Che2-TL00:
       model: Che1-CL10
     Che2-UL00:
@@ -44887,6 +45376,8 @@ device_models:
     CHM-CL00:
       name: Huawei Honor Play 4C
       type: smartphone
+    CHM-TL00:
+      model: CHM-CL00
     CHM-TL00H:
       model: CHM-CL00
     CHM-U01:
@@ -45272,7 +45763,11 @@ device_models:
       model: H30-C00
     Hol-T00:
       model: H30-C00
+    HOL-U10:
+      model: H30-C00
     Hol-U10:
+      model: H30-C00
+    HOL-U19:
       model: H30-C00
     Hol-U19:
       model: H30-C00
@@ -45492,6 +45987,14 @@ device_models:
     MTC Android:
       name: Huawei U8110
       size: 2.8
+      type: smartphone
+    myTouch:
+      name: Huawei T-Mobile myTouch 2
+      size: 4
+      type: smartphone
+    myTouch Q:
+      name: Huawei T-Mobile myTouch qwerty
+      size: 4
       type: smartphone
     Orange Daytona:
       model: Ascend G510
@@ -45789,9 +46292,7 @@ device_models:
       name: Huawei U8667
       type: smartphone
     U8680:
-      name: Huawei T-Mobile myTouch 2
-      size: 4
-      type: smartphone
+      model: myTouch
     U8681:
       name: Huawei Ascend G312
       type: smartphone
@@ -45803,9 +46304,7 @@ device_models:
       name: Huawei Chronos
       type: smartphone
     U8730:
-      name: Huawei T-Mobile myTouch qwerty
-      size: 4
-      type: smartphone
+      model: myTouch Q
     U8800:
       name: Huawei Ideos X5
       size: 3.8
@@ -46036,6 +46535,8 @@ device_models:
       model: Y320
     Y330-U15:
       model: Y320
+    Y336:
+      model: Y336-A1
     Y336-A1:
       name: Huawei Ascend Y336
       type: smartphone
@@ -46109,6 +46610,8 @@ device_models:
     Y540-U01:
       name: Huawei Ascend Y540
       type: smartphone
+    Y541:
+      model: Y541-U02
     Y541-U02:
       name: Huawei Ascend Y541
       type: smartphone
@@ -46123,6 +46626,8 @@ device_models:
     Y560-L01:
       name: Huawei Ascend Y560
       type: smartphone
+    Y560-U12:
+      model: Y560-L01
     Y600-U00:
       name: Huawei Ascend Y600
       type: smartphone
@@ -46392,6 +46897,9 @@ device_models:
     Andi5-E7:
       name: iBall Andi 5-E7
       type: smartphone
+    Andi5-M8:
+      name: iBall Andi 5-M8
+      type: smartphone
     Andi5.5 N2:
       name: iBall Andi 5.5 N2
       type: smartphone
@@ -46459,7 +46967,7 @@ device_models:
     AUXUS Nuclea N2:
       name: iBerry Auxus Nuclea N2
       type: smartphone
-  IconBit:
+  iconBIT:
     NetTab iconBIT:
       name: IconBit NetTab
       type: tablet
@@ -46470,7 +46978,7 @@ device_models:
       display: 480x800
       name: IconBit NetTab Pocket
       size: 6.5
-      type: phablet
+      type: tablet
     NetTAB RUNE:
       name: IconBit NetTab Rune
       type: tablet
@@ -46576,7 +47084,7 @@ device_models:
       type: tablet
     NT-3702S:
       name: IconBit NetTab Sky HD 3G
-      type: smartphone
+      type: tablet
     NT-3710S:
       name: IconBit NetTab Sky 3G Plus
       type: tablet
@@ -46647,9 +47155,15 @@ device_models:
       name: IMO Raptor S87
       type: smartphone
     S50: {}
+    S67:
+      name: IMO Blast S67
+      type: smartphone
     S68:
       name: IMO Snow S68
       size: 5
+      type: smartphone
+    S70:
+      name: IMO Miracle 2 S70
       type: smartphone
     S78:
       size: 4
@@ -46838,6 +47352,9 @@ device_models:
       type: smartphone
     i-STYLE 8.3 DTV: {}
     i-STYLE 8.5: {}
+    i-STYLE 8.6 DTV:
+      name: i-Mobile i-Style 8.6 DTV
+      type: smartphone
     i-STYLE Q 5: {}
     i-STYLE Q 5A:
       name: i-Mobile i-Style Q5A
@@ -46952,6 +47469,9 @@ device_models:
       name: i-Mobile iQ 9.2A
       type: smartphone
     IQ 9A: {}
+    IQ BIG:
+      name: i-Mobile iQ Big
+      type: smartphone
     IQ X:
       name: i-Mobile iQ X
       type: smartphone
@@ -47708,16 +48228,16 @@ device_models:
       name: Jfone Alpha 3G S407
       size: 4.5
       type: smartphone
-  Jiayu:
+  JiaYu:
     G2:
-      name: Jiayu JY-G2
+      name: JiaYu JY-G2
       size: 4
       type: smartphone
     G2S:
-      name: Jiayu G2 Plus
+      name: JiaYu G2 Plus
       type: smartphone
     G3:
-      name: Jiayu G3
+      name: JiaYu G3
       size: 4.5
       type: smartphone
     G4:
@@ -47732,82 +48252,82 @@ device_models:
       type: smartphone
     G6:
       display: 1080x1920
-      name: Jiayu G6
+      name: JiaYu G6
       size: 5.7
       type: smartphone
     JIAYU F1:
-      name: Jiayu F1
+      name: JiaYu F1
       type: smartphone
-    Jiayu G2:
-      name: Jiayu G2
+    JiaYu G2:
+      name: JiaYu G2
       size: 4
       type: smartphone
-    Jiayu G2H:
-      name: Jiayu G2H
+    JiaYu G2H:
+      name: JiaYu G2H
       type: smartphone
-    Jiayu G2L:
-      name: Jiayu G2L
+    JiaYu G2L:
+      name: JiaYu G2L
       type: smartphone
-    Jiayu G2s:
+    JiaYu G2s:
       model: G2S
-    Jiayu G3:
+    JiaYu G3:
       model: G3
     JIAYU G3S:
-      name: Jiayu G3S
+      name: JiaYu G3S
       type: smartphone
-    Jiayu G4S:
-      name: Jiayu G4S
+    JiaYu G4S:
+      name: JiaYu G4S
       type: smartphone
-    Jiayu G5S:
-      name: Jiayu G5S
+    JiaYu G5S:
+      name: JiaYu G5S
       type: smartphone
     JIAYU-G3:
       model: G3
     JIAYU-G4S:
-      model: Jiayu G4S
+      model: JiaYu G4S
     JIAYU.G3S:
       model: JIAYU G3S
     JY G2F:
-      name: Jiayu G2F
+      name: JiaYu G2F
       type: smartphone
     JY G4C:
-      name: Jiayu G4C
+      name: JiaYu G4C
       type: smartphone
     JY-F1:
       type: smartphone
     JY-F2:
-      name: Jiayu F2
+      name: JiaYu F2
       type: smartphone
     JY-G1:
-      name: Jiayu G1
+      name: JiaYu G1
       type: smartphone
     JY-G2:
       type: smartphone
     JY-G2 64:
-      model: Jiayu G2
+      model: JiaYu G2
     JY-G2 DualCore(Standard):
-      model: Jiayu G2
+      model: JiaYu G2
     JY-G2F:
       type: smartphone
     JY-G2H:
-      model: Jiayu G2H
+      model: JiaYu G2H
     JY-G2L:
-      model: Jiayu G2L
+      model: JiaYu G2L
     JY-G2LS:
-      name: Jiayu G2LS
+      name: JiaYu G2LS
       type: smartphone
     JY-G3:
       type: smartphone
     JY-G3C:
-      name: Jiayu G3C
+      name: JiaYu G3C
       type: smartphone
     JY-G3N:
-      name: Jiayu G3N
+      name: JiaYu G3N
       type: smartphone
     JY-G3S:
       model: JIAYU G3S
     JY-G4:
-      name: Jiayu G4
+      name: JiaYu G4
       size: 4.7
       type: smartphone
     JY-G4 G5:
@@ -47819,23 +48339,23 @@ device_models:
     JY-G4S:
       type: smartphone
     JY-G5:
-      name: Jiayu G5
+      name: JiaYu G5
       type: smartphone
     JY-G5S:
       type: smartphone
     JY-G5S+:
-      name: Jiayu G5S+
+      name: JiaYu G5S+
       type: smartphone
     JY-G6:
       type: smartphone
     JY-S2:
-      name: Jiayu S2
+      name: JiaYu S2
       type: smartphone
     JY-S3:
-      name: Jiayu S3
+      name: JiaYu S3
       type: smartphone
     JY-S3S:
-      name: Jiayu S3S
+      name: JiaYu S3S
       type: smartphone
     JYG3N:
       model: JY-G3N
@@ -48866,6 +49386,12 @@ device_models:
     KYV33:
       name: Kyocera INFOBAR A03
       type: smartphone
+    KYV34:
+      name: Kyocera Torque G02
+      type: smartphone
+    KYV35:
+      name: Kyocera Urbano V02
+      type: smartphone
     KYY21:
       name: Kyocera Urbano L01
       type: smartphone
@@ -48938,6 +49464,12 @@ device_models:
       type: smartphone
     L925: {}
   Lanix:
+    ILIUM L400:
+      name: Lanix Ilium L400
+      type: smartphone
+    ILIUM L900:
+      name: Lanix Ilium L900
+      type: smartphone
     ilium Pad E10:
       name: Lanix Ilium Pad E10
       type: tablet
@@ -48973,6 +49505,9 @@ device_models:
     ILIUM S520: {}
     ILIUM S600:
       name: Lanix Ilium S600
+      type: smartphone
+    ILIUM S670:
+      name: Lanix Ilium S670
       type: smartphone
     ILIUM S700:
       name: Lanix Ilium S700
@@ -49483,10 +50018,11 @@ device_models:
     A590:
       name: Lenovo A590
       type: smartphone
-    A60: {}
-    A60+:
-      _brand: Lenovo
+    A60:
       name: Lenovo A60
+      type: smartphone
+    A60+:
+      name: Lenovo A60+
       type: smartphone
     A6000:
       name: Lenovo A6000
@@ -49926,6 +50462,8 @@ device_models:
       model: A1
     Lenovo A1-32AB0:
       model: A1 07
+    Lenovo A60:
+      model: A60+
     lenovo a60:
       model: A60
     Lenovo K2:
@@ -50379,6 +50917,10 @@ device_models:
     C900:
       name: LG Optimus 7Q
       type: smartphone
+    Crespo:
+      name: Samsung Nexus S
+      size: 4
+      type: smartphone
     CX670:
       name: LG Optimus 3G
       type: smartphone
@@ -50680,6 +51222,8 @@ device_models:
       model: D950
     D959:
       model: D950
+    Dooderbutt:
+      model: Crespo
     DS1203:
       model: D800
     E LG-VS700:
@@ -50692,10 +51236,7 @@ device_models:
       size: 5.5
       type: phablet
     E-lap crespo:
-      _brand: Samsung
-      name: Samsung Nexus S
-      size: 4
-      type: smartphone
+      model: Crespo
     E-lap maguro:
       _brand: Samsung
       name: Samsung Galaxy Nexus
@@ -50876,6 +51417,8 @@ device_models:
       size: 4
       type: smartphone
     E615:
+      model: E614
+    E615F:
       model: E614
     E615f:
       model: E614
@@ -51161,10 +51704,14 @@ device_models:
       type: smartphone
     GM360i: {}
     GM750: {}
+    Google Galaxy Nexus:
+      model: E-lap maguro
     Google Nexus 4:
       model: E-lap mako
     Google Nexus 5:
       model: D820
+    Google Nexus S:
+      model: Crespo
     Google Nexus4:
       model: E-lap mako
     Google Nexus5:
@@ -51183,6 +51730,8 @@ device_models:
       model: Google TV G3
     GS290: {}
     GS500: {}
+    GT-I9250:
+      model: E-lap maguro
     GT350: {}
     GT400: {}
     GT540:
@@ -51210,6 +51759,8 @@ device_models:
     H320:
       name: LG Leon
       type: smartphone
+    H324:
+      model: H320
     H326:
       model: H320
     H340:
@@ -51217,6 +51768,8 @@ device_models:
     H340n:
       type: smartphone
     H342:
+      model: H320
+    H345:
       model: H320
     H410:
       type: smartphone
@@ -51255,9 +51808,13 @@ device_models:
     H540:
       name: LG H54x
       type: smartphone
+    H631:
+      model: MS631
     H635:
       name: LG H63x
       type: smartphone
+    H636:
+      model: MS631
     H736:
       name: LG H73x
       type: smartphone
@@ -51268,6 +51825,8 @@ device_models:
     H810:
       name: LG G4
       type: smartphone
+    H811:
+      model: H810
     H812:
       model: H810
     H815:
@@ -51460,6 +52019,9 @@ device_models:
       model: E970
     LGL22:
       model: D800
+    LGL22C:
+      name: LG isai
+      type: smartphone
     LGL23:
       model: D950
     LGL24:
@@ -51473,6 +52035,9 @@ device_models:
       type: smartphone
     LGL31L:
       name: LG Access
+      type: smartphone
+    LGL33L:
+      name: LG Sunset
       type: smartphone
     LGL34C:
       name: LG Optimus Fuel
@@ -51537,6 +52102,8 @@ device_models:
     LS751:
       name: LG LS751
       type: smartphone
+    LS770:
+      model: MS631
     LS840:
       name: LG Viper
       size: 4
@@ -51598,10 +52165,14 @@ device_models:
       type: smartphone
     madai:
       model: LGL25
+    Maguro:
+      model: E-lap maguro
     Mako:
       model: E-lap mako
     MS323:
       model: AS323
+    MS345:
+      model: H320
     MS395:
       name: LG Optimus M
       size: 3.2
@@ -51650,7 +52221,7 @@ device_models:
     Nexus 5:
       model: D820
     Nexus S:
-      model: E-lap crespo
+      model: Crespo
     Nexus4:
       model: E-lap mako
     Nexus5:
@@ -51902,11 +52473,21 @@ device_models:
       display: 176x220
       size: 2.2
       type: phone
+    SC-04D:
+      model: E-lap maguro
+    SCH-I515:
+      model: E-lap maguro
     SFR-G8800:
       name: LG SFR-G8800
       type: tv
     SFR-G8800 TV:
       model: SFR-G8800
+    SHW-M420:
+      model: E-lap maguro
+    SPH-D720:
+      model: Crespo
+    SPH-L700:
+      model: E-lap maguro
     SU370:
       model: P500
     SU540:
@@ -51981,6 +52562,10 @@ device_models:
       type: tv
     TI320-DU TV:
       model: TI320-DU
+    Toro:
+      model: E-lap maguro
+    Toro-VZW:
+      model: E-lap maguro
     U8500:
       display: 176x220
       type: phone
@@ -52035,6 +52620,9 @@ device_models:
       model: V480
     V495:
       model: LK430
+    V496:
+      name: LG G Pad F 8.0
+      type: tablet
     V500:
       name: LG G Pad 8.3
       size: 8.3
@@ -52184,13 +52772,20 @@ device_models:
       model: AS990
     VS985 4G:
       model: AS990
+    VS986:
+      model: H810
     VS999:
       model: H810
+    Watch Urbane:
+      name: LG G Watch Urbane
+      type: watch
     WM760-Prism:
       date: 2012-05
       display: 320x480
       name: T-Mobile Prism
       size: 3.5
+    X130:
+      model: D165
     X130g:
       display: 320x480
       name: LG L45 X130G
@@ -52680,6 +53275,8 @@ device_models:
       _brand: Mediacom
       name: Mediacom SmartPad 810c
       type: tablet
+    MP810C:
+      model: Mediacom 810C
     SmartPad 852i:
       name: Mediacom SmartPad 825i
       type: tablet
@@ -53146,6 +53743,9 @@ device_models:
     A093:
       name: Micromax A93 Canvas Elanza
       type: smartphone
+    A096:
+      name: Micromax A096 Canvas Fire 3
+      type: smartphone
     a100: {}
     A101:
       name: Micromax A101
@@ -53366,9 +53966,11 @@ device_models:
     A70:
       name: Micromax A70 Andro
       type: smartphone
-    a71:
+    A71:
       name: Micromax A71 Bolt
       type: smartphone
+    a71:
+      model: A71
     A72:
       name: Micromax A72 Viva
       size: 5
@@ -53454,6 +54056,9 @@ device_models:
     AQ4501:
       name: Micromax AQ4501 Canvas A1
       type: smartphone
+    AQ4502:
+      name: Micromax AQ4502 Canvas A1
+      type: smartphone
     AQ5000:
       display: 720x1280
       name: Micromax AQ5000 Canvas Hue
@@ -53522,6 +54127,9 @@ device_models:
     P470:
       name: Micromax Canvas Tab P470
       type: tablet
+    P480:
+      name: Micromax Canvas Tab P480
+      type: tablet
     P500:
       name: Micromax P500 Funbook Pro
       size: 10.1
@@ -53536,6 +54144,12 @@ device_models:
       type: tablet
     P650:
       name: Micromax Canvas Tab P650
+      type: tablet
+    P666:
+      name: Micromax Canvas Tab P666
+      type: tablet
+    P690:
+      name: Micromax Canvas Tab P690
       type: tablet
     P700:
       type: tablet
@@ -53569,6 +54183,9 @@ device_models:
     P990:
       _brand: LG
       name: LG Optimus 2X Speed
+      type: smartphone
+    Q355:
+      name: Micromax Q355 Canvas Play
       type: smartphone
     Q371:
       type: smartphone
@@ -53829,6 +54446,8 @@ device_models:
       size: 5.2
       type: phablet
     T300:
+      model: t300
+    t300:
       name: MITO T300
       size: 5
       type: smartphone
@@ -54880,6 +55499,8 @@ device_models:
       type: smartphone
     XT1254:
       model: XT1250
+    XT1524:
+      model: XT1526
     XT1526:
       name: Motorola Moto E (2015)
       type: smartphone
@@ -56984,6 +57605,8 @@ device_models:
       name: Odys Loox
       size: 7
       type: tablet
+    Loox:
+      model: LOOX
     LOOX Plus:
       size: 7
       type: tablet
@@ -57265,6 +57888,9 @@ device_models:
       name: Oppo T703
       size: 3.2
       type: smartphone
+    A31:
+      name: Oppo A31
+      type: smartphone
     Find 5:
       name: Oppo Find 5
       size: 5
@@ -57275,6 +57901,8 @@ device_models:
     Find7:
       name: Oppo Find 7 X9070
       type: smartphone
+    find7:
+      model: Find7
     Find7a:
       display: 1080x1920
       name: Oppo Find 7a
@@ -57437,8 +58065,17 @@ device_models:
     R819T:
       name: Oppo Real R819T
       type: smartphone
+    R8201:
+      name: Oppo R1x R8201
+      type: smartphone
     R8205:
       name: Oppo R8205
+      type: smartphone
+    R8206:
+      name: Oppo R1x R8206
+      type: smartphone
+    R8207:
+      name: Oppo R1c R8207
       type: smartphone
     R821:
       display: 480x800
@@ -57605,6 +58242,9 @@ device_models:
     OPSSON IDO 5311:
       name: Opsson IDO 5311
       type: smartphone
+    OPSSON IDO 5322:
+      name: Opsson IDO 5322
+      type: smartphone
     OPSSON IDO5300:
       name: Opsson IDO 5300
       type: smartphone
@@ -57682,6 +58322,9 @@ device_models:
     Orange Dublin:
       name: Orange Dublin
       type: smartphone
+    Orange Fova:
+      name: Orange Fova
+      type: smartphone
     Orange Gova:
       name: Orange Gova
       type: smartphone
@@ -57723,6 +58366,9 @@ device_models:
       display: 480x854
       name: Orange Roya
       size: 4.5
+      type: smartphone
+    Orange Tado:
+      name: Orange Tado
       type: smartphone
     Orange Yomi:
       name: Orange Yomi
@@ -58946,6 +59592,9 @@ device_models:
       name: Polaroid PMID 920
       type: tablet
     PSPC505: {}
+    PSPT401:
+      name: Polaroid Turbo 401
+      type: smartphone
     PTAB4300: {}
     PTAB7200: {}
   Polypad:
@@ -60037,6 +60686,9 @@ device_models:
     Z4 mini:
       name: Q-Mobile Noir Quatro Z4 mini
       type: smartphone
+    Z8:
+      name: Q-Mobile Noir Z8
+      type: smartphone
   Qmobilevn:
     Q-Smart FLY 01:
       name: Q-Mobile Q-Smart Fly 01
@@ -60620,13 +61272,12 @@ device_models:
       type: smartphone
     Crespo:
       brand: LG
-      model: E-lap crespo
     D900E: {}
     de-ch SCH-I545:
       model: Galaxy S IV(I950X)
     Dooderbutt:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     DPH-D710:
       name: Samsung Galaxy S II
       size: 4.3
@@ -60701,12 +61352,16 @@ device_models:
       model: Galaxy N3
     Galaxy Note 3 N9000:
       model: Galaxy N3
+    Galaxy Note 4:
+      model: SM-N910
     Galaxy Note I:
       model: Galaxy Note
     Galaxy Note II:
       model: Galaxy Note 2
     GALAXY Note III:
       model: Galaxy N3
+    GALAXY Note4:
+      model: SM-N910
     Galaxy NoteIII:
       model: Galaxy N3
     Galaxy pop plus 4G:
@@ -60754,6 +61409,10 @@ device_models:
     GALAXY S5:
       name: Samsung Galaxy S5
       type: smartphone
+    Galaxy S6:
+      model: SC-05G
+    Galaxy S6 Edge:
+      model: SC-04G
     Galaxy SIII:
       model: Galaxy S III
     Galaxy SIV:
@@ -60782,6 +61441,8 @@ device_models:
       model: Galaxy S
     GalaxyS2:
       model: DPH-D710
+    GalaxyS4:
+      model: Galaxy S IV(I950X)
     Gear Live:
       name: Samsung Gear Live
       type: watch
@@ -60793,7 +61454,7 @@ device_models:
       type: tablet
     Google Nexus S:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     Google Nexus10:
       model: Google Nexus 10
     GT-B2100i: {}
@@ -62178,7 +62839,7 @@ device_models:
       model: Google Nexus 10
     Nexus S:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     Nexus S 4G:
       model: GT-I9023
     Nexus10:
@@ -63184,6 +63845,9 @@ device_models:
     SM-A700S: {}
     SM-A700YD:
       type: smartphone
+    SM-A800:
+      name: Samsung Galaxy A8
+      type: smartphone
     SM-C101:
       model: Galaxy S4 Zoom
     SM-C105:
@@ -63239,6 +63903,9 @@ device_models:
       type: smartphone
     SM-G130M:
       model: SM-G130HN
+    SM-G150:
+      name: Samsung SM-G150
+      type: smartphone
     SM-G310H:
       name: Samsung Galaxy Ace 4
       type: smartphone
@@ -63582,6 +64249,9 @@ device_models:
       type: smartphone
     SM-G901F-ORANGE:
       type: smartphone
+    SM-G903:
+      name: Samsung Galaxy S5 Neo
+      type: smartphone
     SM-G903F:
       type: smartphone
     SM-G906:
@@ -63641,6 +64311,9 @@ device_models:
     SM-G925L:
       type: smartphone
     SM-G925X:
+      type: smartphone
+    SM-G928:
+      name: Samsung Galaxy S6 Edge+
       type: smartphone
     SM-J100:
       name: Samsung Galaxy J1
@@ -63836,6 +64509,9 @@ device_models:
     SM-N916K: {}
     SM-N916L: {}
     SM-N916S: {}
+    SM-N920:
+      name: Samsung Galaxy Note 5
+      type: smartphone
     SM-P350:
       name: Samsung Galaxy Tab A Plus 8.0
       type: tablet
@@ -64025,6 +64701,8 @@ device_models:
       model: SM-T350
     SM-T355:
       model: SM-T350
+    SM-T357:
+      model: SM-T350
     SM-T360:
       name: Samsung Galaxy Tab Active (8.0)
       type: tablet
@@ -64065,6 +64743,11 @@ device_models:
       model: SM-T550
     SM-T555:
       model: SM-T550
+    SM-T560:
+      name: Samsung Galaxy Tab E
+      type: tablet
+    SM-T561:
+      model: SM-T560
     SM-T700:
       model: SC-03G
     SM-T705:
@@ -64109,6 +64792,8 @@ device_models:
       name: Samsung Galaxy Tab S2 9.7
       type: tablet
     SM-T815:
+      model: SM-T810
+    SM-T817:
       model: SM-T810
     SM-T900:
       name: Samsung Galaxy Tab Pro 12.2
@@ -64173,7 +64858,7 @@ device_models:
     SPH-D710VMUB: {}
     SPH-D720:
       brand: LG
-      model: E-lap crespo
+      model: Crespo
     SPH-I800:
       model: SGH-I187
     SPH-L300:
@@ -64571,6 +65256,9 @@ device_models:
     SH-03F:
       name: Sharp SH-03F
       type: smartphone
+    SH-03G:
+      name: Sharp Aquos Zeta SH-03G
+      type: smartphone
     SH-04D: {}
     SH-04E:
       name: Sharp Aquos EX SH-04E
@@ -64578,12 +65266,18 @@ device_models:
     SH-04F:
       name: Sharp Aquos Zeta SH-04F
       type: smartphone
+    SH-04G:
+      name: Sharp Aquos Ever SH-04G
+      type: smartphone
     SH-05E:
       name: Sharp SH-05E
       type: smartphone
     SH-05F:
       name: Disney Mobile SH-05F
       type: smartphone
+    SH-05G:
+      name: Sharp Aquos Pad SH-05G
+      type: tablet
     SH-06D:
       name: Sharp Aquos SH-06D
       type: smartphone
@@ -64595,6 +65289,9 @@ device_models:
       type: smartphone
     SH-06F:
       name: Sharp Aquos Pad SH-06F
+      type: smartphone
+    SH-06G:
+      name: Sharp Aquos SH-06G
       type: smartphone
     SH-07C:
       name: Sharp Galapagos SH-07C
@@ -64691,6 +65388,9 @@ device_models:
       type: smartphone
     SHF31:
       name: Sharp Aquos K SHF31
+      type: smartphone
+    SHF32:
+      name: Sharp Aquos K SHF32
       type: smartphone
     SHL21:
       name: Sharp Aquos Serie SHL21
@@ -65476,9 +66176,19 @@ device_models:
     E5803:
       name: Sony E580x
       type: smartphone
+    E6333:
+      name: Sony Xperia Z3+ dual
+      type: smartphone
+    E6508:
+      name: Sony Xperia Z4v
+      type: smartphone
     EricssonGeneric: {}
     Hayabusa:
       name: Sony Xperia GX or TX
+      type: smartphone
+    IS12S:
+      name: Sony Xperia Acro HD
+      size: 4.3
       type: smartphone
     L35h:
       model: C6502
@@ -65572,6 +66282,8 @@ device_models:
       model: C5302
     M36h:
       model: C5502
+    M50w:
+      model: D5102
     M51w:
       model: D5503
     M55w:
@@ -65721,6 +66433,9 @@ device_models:
       name: Sony Xperia Tablet S 3G
       size: 9.4
       type: tablet
+    SmartWatch 3:
+      name: Sony SmartWatch 3
+      type: watch
     "SNM\\-LT25c":
       model: LT25c
     "SNM\\-M35c":
@@ -65748,9 +66463,7 @@ device_models:
     SO-02G:
       model: D5803
     SO-03D:
-      name: Sony Xperia Acro HD
-      size: 4.3
-      type: smartphone
+      model: IS12S
     SO-03E:
       model: SGP321
     SO-03F:
@@ -65780,6 +66493,9 @@ device_models:
       display: 720x1280
       name: Sony Xperia A2
       size: 4.3
+      type: smartphone
+    SO-04G:
+      name: Sony Xperia A4
       type: smartphone
     SO-05D:
       date: 2012-09
@@ -65811,6 +66527,10 @@ device_models:
       model: 401SO
     SOT21:
       model: SGP541
+    SOT31:
+      model: SGP771
+    SOV31:
+      model: 402SO
     ST18iv:
       brand: SonyEricsson
     ST21:
@@ -66139,7 +66859,6 @@ device_models:
       type: smartphone
     IS12S:
       brand: Sony
-      model: SO-03D
     J105i: {}
     J108i: {}
     J10i: {}
@@ -66382,9 +67101,10 @@ device_models:
       model: ST18iv
     SO-03D:
       brand: Sony
+      model: IS12S
     SO-03E:
       brand: Sony
-      model: SO-03D
+      model: IS12S
     SO-04D:
       brand: Sony
     SO-04E:
@@ -66580,7 +67300,7 @@ device_models:
     Xperia Acro: {}
     Xperia Acro HD:
       brand: Sony
-      model: SO-03D
+      model: IS12S
     Xperia Acro S:
       brand: Sony
     Xperia Active:
@@ -66594,6 +67314,8 @@ device_models:
       size: 4.2
       type: smartphone
     Xperia Arc S:
+      model: LT18i
+    Xperia Arc S (LT18i):
       model: LT18i
     Xperia Live with Walkman:
       model: Live With Walkman
@@ -66623,6 +67345,8 @@ device_models:
       type: smartphone
     Xperia Ray:
       model: ST18iv
+    Xperia Ray (ST18i):
+      model: ST18iv
     Xperia X1:
       name: SonyEricsson Xperia X1
       type: smartphone
@@ -66631,6 +67355,8 @@ device_models:
     Xperia X10 Mini:
       size: 2.55
       type: smartphone
+    Xperia x10 Mini Pro:
+      model: U20iv
     Xperia X8:
       model: E15
     Z1010: {}
@@ -67398,7 +68124,6 @@ device_models:
       model: Glacier
     myTouch:
       brand: Huawei
-      model: U8680
     MyTouch 3G:
       brand: HTC
       model: myTouch 3G
@@ -67414,7 +68139,6 @@ device_models:
       type: smartphone
     myTouch Q:
       brand: Huawei
-      model: U8730
     myTouch Slide 4G:
       model: myTouch 4G Slide
     MyTouch4G:
@@ -67546,11 +68270,16 @@ device_models:
     GENESEE E708:
       name: TCL Genesee E708
       type: smartphone
+    Google TV TV:
+      brand: Alcatel
     H900M:
       name: TCL H900M
       type: smartphone
     i718M:
       name: TCL i718M
+      type: smartphone
+    i800:
+      name: TCL i800
       type: smartphone
     i806:
       name: TCL i806
@@ -67601,6 +68330,8 @@ device_models:
     M2U:
       name: TCL M2U
       type: smartphone
+    M3G:
+      brand: Alcatel
     P301M:
       name: TCL P301
       type: smartphone
@@ -68075,6 +68806,8 @@ device_models:
       type: tablet
     X80h(FB6M):
       model: X80h(FB5M)
+    X80HD(G2N8):
+      model: X80HD(G2N9)
     X80HD(G2N9):
       name: Teclast X80HD
       type: tablet
@@ -68099,6 +68832,8 @@ device_models:
       model: X98 3G(HKC1)
     X98 3G(lite):
       model: X98 3G(HKC1)
+    X98 Air 3G(C5J5):
+      model: X98 Air 3G(C5J6)
     X98 Air 3G(C5J6):
       name: Teclast X98 Air 3G
       type: tablet
@@ -68327,8 +69062,8 @@ device_models:
       name: Telenor One Touch S
       type: smartphone
     Telenor OneTouch:
-      name: Telenor One Touch
-      type: smartphone
+      brand: Alcatel
+      model: One Touch
     Telenor S800:
       name: Telenor S800
       type: smartphone
@@ -69100,6 +69835,9 @@ device_models:
     Amazing X3:
       name: TWM Amazing X3
       type: smartphone
+    Amazing X5:
+      name: TWM Amazing X5
+      type: smartphone
     Fantastic T3:
       name: TWM Fantastic T3
       type: smartphone
@@ -69596,6 +70334,12 @@ device_models:
       name: Vivo V2
       size: 3.5
       type: smartphone
+    VIV-vivo X5Max V:
+      name: Vivo X5 Max V
+      type: smartphone
+    VIV-vivo X5Pro V:
+      name: Vivo X5 Pro V
+      type: smartphone
     VIV-vivo X5V:
       model: BBG-vivo X5V
     VIV-vivo Y913:
@@ -69616,6 +70360,9 @@ device_models:
       model: X1S
     X1w:
       name: Vivo X1W
+      type: smartphone
+    X3F:
+      name: Vivo X3F
       type: smartphone
     X3L:
       name: Vivo X3L
@@ -69645,6 +70392,9 @@ device_models:
       type: smartphone
     X5L:
       name: Vivo X5L
+      type: smartphone
+    X5M:
+      name: Vivo X5M
       type: smartphone
     X5Max:
       name: Vivo X5 Max
@@ -69708,6 +70458,9 @@ device_models:
       type: smartphone
     Y13:
       name: Vivo Y13
+      type: smartphone
+    Y13iL:
+      name: Vivo Y13i L
       type: smartphone
     Y13L:
       name: Vivo Y13L
@@ -70196,6 +70949,8 @@ device_models:
       name: Wiko Cink Five
       size: 5
       type: smartphone
+    Cink Five:
+      model: CINK FIVE
     CINK KING:
       name: Wiko Cink King
       size: 5
@@ -70204,6 +70959,8 @@ device_models:
       name: Wiko Cink Peax
       size: 4.5
       type: smartphone
+    Cink Peax:
+      model: CINK PEAX
     CINK PEAX 2:
       name: Wiko Cink Peak 2
       size: 4.5
@@ -70215,6 +70972,8 @@ device_models:
       name: Wiko Cink Slim
       size: 4
       type: smartphone
+    Cink Slim:
+      model: CINK SLIM
     CINK SLIM 2:
       date: 2014-05
       display: 480x800
@@ -70286,6 +71045,8 @@ device_models:
       name: Wiko Rainbow
       size: 5
       type: smartphone
+    Rainbow:
+      model: RAINBOW
     RAINBOW 4G:
       name: Wiko Rainbow 4G
       size: 5
@@ -70298,6 +71059,8 @@ device_models:
       name: Wiko Stairway
       size: 5
       type: phablet
+    Stairway:
+      model: STAIRWAY
     SUBLIM:
       name: Wiko Sublim
       size: 4
@@ -70975,9 +71738,15 @@ device_models:
       name: Lava XOLO A800
       size: 4.5
       type: smartphone
+    Alfa L:
+      name: Lava Iris Alfa L
+      type: smartphone
     B700:
       name: Lava XOLO B700
       size: 4.3
+      type: smartphone
+    BLACK:
+      name: Lava XOLO Black
       type: smartphone
     iris 250:
       name: Lava Iris 250
@@ -71845,6 +72614,9 @@ device_models:
     YUSUN - W 800:
       name: Yusun W800
       type: smartphone
+    YUSUN -- W 900:
+      name: Yusun W900
+      type: smartphone
     YUSUN E98:
       name: Yusun E98
       type: smartphone
@@ -72070,6 +72842,9 @@ device_models:
       type: smartphone
     ZP300S:
       model: ZP300
+    ZP330:
+      name: Zopo ZP330 Color C
+      type: smartphone
     ZP500:
       name: Zopo ZP500 Libero
       size: 4
@@ -72263,6 +73038,8 @@ device_models:
     BGH Joy Smart AXS: {}
     BLADE:
       model: a5
+    Blade:
+      model: a5
     Blade 2:
       name: ZTE Blade 2
       type: smartphone
@@ -72305,6 +73082,8 @@ device_models:
       name: ZTE V889M Blade III
       size: 4
       type: smartphone
+    Blade III:
+      model: BLADE III
     BLADE III IL:
       name: ZTE Blade III
       size: 4
@@ -72337,6 +73116,9 @@ device_models:
     Blade Q Mini:
       name: ZTE Blade Q Mini
       type: smartphone
+    Blade Q1:
+      name: ZTE Blade Q1
+      type: smartphone
     Blade S:
       name: ZTE Blade S
       size: 3.5
@@ -72360,6 +73142,9 @@ device_models:
       name: ZTE Blade V2
       type: smartphone
     Blade V220:
+      type: smartphone
+    Blade V6:
+      name: ZTE Blade V6
       type: smartphone
     Blade Vec:
       name: ZTE Blade Vec
@@ -72451,6 +73236,8 @@ device_models:
     Geek 2:
       name: ZTE Geek II
       type: smartphone
+    GEEK II 4G:
+      model: Geek 2
     GEEK II Pro 4G:
       name: ZTE Geek II Pro
       type: smartphone
@@ -72536,6 +73323,9 @@ device_models:
       type: smartphone
     Kis II Max:
       model: KIS II Max
+    Kis II Max plus:
+      name: ZTE Kis 2 Max Plus
+      type: smartphone
     Kis Lite:
       name: ZTE Kis Lite
       size: 3.5
@@ -72564,6 +73354,8 @@ device_models:
       name: ZTE LEO S1
       type: smartphone
     LIBRA:
+      model: Libra
+    Libra:
       name: ZTE Libra
       size: 3.5
       type: smartphone
@@ -72988,6 +73780,8 @@ device_models:
       name: ZTE X850 Racer
       size: 2.8
       type: smartphone
+    Racer:
+      model: RACER
     RACER III mini:
       name: ZTE Racer
       size: 2.8
@@ -73008,6 +73802,9 @@ device_models:
     S2005:
       name: ZTE Star 2
       type: smartphone
+    S2010:
+      name: ZTE S2010
+      type: smartphone
     S251:
       name: ZTE S251
       type: smartphone
@@ -73024,6 +73821,8 @@ device_models:
       name: ZTE Skate
       size: 4.3
       type: smartphone
+    Skate:
+      model: SKATE
     Skate 2:
       name: ZTE Skate 2
       type: smartphone
@@ -73556,6 +74355,12 @@ device_models:
       name: ZTE Z750 Savvy
       size: 4
       type: smartphone
+    Z752C:
+      name: ZTE Z752 Zephyr
+      type: smartphone
+    Z753G:
+      name: ZTE Z753 Paragon
+      type: smartphone
     Z755:
       name: ZTE Z755
       type: smartphone
@@ -73586,6 +74391,9 @@ device_models:
       type: smartphone
     Z797C:
       name: ZTE Z797
+      type: smartphone
+    Z812:
+      name: ZTE Z812 Maven
       type: smartphone
     Z813:
       name: ZTE Z813

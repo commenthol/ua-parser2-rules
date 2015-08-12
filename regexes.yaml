@@ -2700,7 +2700,7 @@ device_model_parsers:
   # @ref: http://www.hannspree.eu/
   #########
   - regex: '^(SN\d+[A-Z]?T[^;\(]*|Hanns.*)'
-    brand: 'Hannspree'
+    brand: 'HANNspree'
 
   #########
   # HCLme
@@ -2773,11 +2773,11 @@ device_model_parsers:
     brand: 'iBall'
 
   #########
-  # IconBIT
+  # iconBIT
   # @ref: http://www.iconbit.com/catalog/tablets/
   #########
   - regex: '^(NT-\d+[^ ;/]*|Net[Tt]AB [^;/]+|Mercury [A-Z]+|iconBIT)(?: S/N:[^;/]+)?'
-    brand: 'IconBIT'
+    brand: 'iconBIT'
 
   #########
   # IMO
@@ -3246,7 +3246,7 @@ device_model_parsers:
   # @ref: http://www.n-keitai.com/
   #########
   - regex: '^NEC-(.+)'
-    brand: 'Nec'
+    brand: 'NEC'
 
   #########
   # Nextbook
